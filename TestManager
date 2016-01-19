@@ -10,7 +10,9 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-<key>url</key><string>http://www.nideweizhi.cn/Client/H5C52BB43_0119095320.ipa</string>				</dict>
+<key>url</key>
+<string>http://www.nideweizhi.cn/Client/H5C52BB43_0119095320.ipa</string>
+</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
